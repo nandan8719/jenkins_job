@@ -2,3 +2,4 @@ hostnamne
 cal
 echo "this is a schell script"
 date
+who
