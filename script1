@@ -3,3 +3,4 @@ cal
 echo "this is a schell script"
 date
 who
+cal 2026
