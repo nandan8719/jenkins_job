@@ -1,6 +1,2 @@
-hostnamne
-cal
-echo "this is a schell script"
-date
-who
+echo " github webhook "
 cal 2026
